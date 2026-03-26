@@ -2,6 +2,12 @@
 
 Personal repository for curated skills.
 
+## Usage
+
+```bash
+npx skills add https://github.com/nnecec/skills
+```
+
 ## Structure
 
 ```text
